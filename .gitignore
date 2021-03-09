@@ -1,0 +1,9 @@
+*.png
+*.gz
+*.cfg
+*.hdf5
+*.pth
+*.pickle
+*.PNG
+*.pyc
+weight
